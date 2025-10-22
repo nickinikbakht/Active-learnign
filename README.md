@@ -1,0 +1,2 @@
+In the **Sample for learning**, you can see **my first acquaintance with Active Learning** — a simple hands-on implementation that helped me understand how models can actively choose the most informative data points to learn from.  
+It was both exciting and insightful to see how much performance improvement can come from *asking the right questions* instead of labeling everything!
