@@ -1,4 +1,4 @@
-# 🧠 Active Learning in Machine Learning
+# 🧠 My personal not about Active Learning in Machine Learning
 
 ## 🔹 Definition
 **Active learning** is a machine learning technique where the model itself chooses which data points it wants to learn from.  
