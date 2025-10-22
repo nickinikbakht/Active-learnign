@@ -43,7 +43,7 @@ Active learning reduces this burden by letting the algorithm decide **which samp
 - [Active Learning (Wikipedia)](https://en.wikipedia.org/wiki/Active_learning_(machine_learning))  
 - [Label Propagation digits: Active learning (example notebooks)](https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_label_propagation_digits_active_learning.html)  
 - [“Active Learning Literature Survey” by Burr Settles (University of Wisconsin–Madison, 2009)](https://burrsettles.com/pub/settles.activelearning.pdf)  
-- [A Gentle Introduction to Active Learning — Machine Learning Mastery](https://machinelearningmastery.com/active-learning/)  
+- [A Gentle Introduction to Active Learning — Medium](https://arindam-dey.medium.com/a-gentle-introduction-to-active-learning-e983b9d175cb)  
 
 ---
 
